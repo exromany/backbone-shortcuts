@@ -1,0 +1,29 @@
+{
+  "name": "backbone-keyboard-shortcuts",
+  "description": "shortcuts plugin for backbone, based on keymaster",
+  "main": "dist/.js",
+  "version": "0.0.1",
+  "license": "MIT",
+  "keywords": [
+    "backbone-shortcuts",
+    "shortcuts",
+    "shortcut",
+    "hotkey",
+    "keyboard",
+    "backbone",
+    "marionette"
+  ],
+  "dependencies": {
+    "backbone": ">=1.1.0",
+    "underscore": ">=1.3.3",
+    "keymaster": ">=1.5.0"
+  },
+  "ignore": [
+    "src",
+    "test",
+    "Gruntfile.coffee",
+    ".editorconfig",
+    ".jshintrc"
+  ]
+}
+
